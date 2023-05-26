@@ -1,0 +1,1 @@
+write you username password in .env file to use script
